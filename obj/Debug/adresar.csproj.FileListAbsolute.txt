@@ -1,0 +1,19 @@
+c:\users\nemanja\documents\visual studio 2015\Projects\adresar\adresar\bin\Debug\adresar.exe.config
+c:\users\nemanja\documents\visual studio 2015\Projects\adresar\adresar\obj\Debug\adresar.csprojResolveAssemblyReference.cache
+c:\users\nemanja\documents\visual studio 2015\Projects\adresar\adresar\obj\Debug\adresar.Form1.resources
+c:\users\nemanja\documents\visual studio 2015\Projects\adresar\adresar\obj\Debug\adresar.Properties.Resources.resources
+c:\users\nemanja\documents\visual studio 2015\Projects\adresar\adresar\obj\Debug\adresar.csproj.GenerateResource.Cache
+c:\users\nemanja\documents\visual studio 2015\Projects\adresar\adresar\bin\Debug\adresar.exe
+c:\users\nemanja\documents\visual studio 2015\Projects\adresar\adresar\bin\Debug\adresar.pdb
+c:\users\nemanja\documents\visual studio 2015\Projects\adresar\adresar\obj\Debug\adresar.exe
+c:\users\nemanja\documents\visual studio 2015\Projects\adresar\adresar\obj\Debug\adresar.pdb
+C:\Users\Korisnik\source\repos\adresar\adresar\bin\Debug\adresar.exe.config
+C:\Users\Korisnik\source\repos\adresar\adresar\bin\Debug\adresar.exe
+C:\Users\Korisnik\source\repos\adresar\adresar\bin\Debug\adresar.pdb
+C:\Users\Korisnik\source\repos\adresar\adresar\obj\Debug\adresar.Form1.resources
+C:\Users\Korisnik\source\repos\adresar\adresar\obj\Debug\adresar.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\adresar\adresar\obj\Debug\adresar.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\adresar\adresar\obj\Debug\adresar.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\adresar\adresar\obj\Debug\adresar.exe
+C:\Users\Korisnik\source\repos\adresar\adresar\obj\Debug\adresar.pdb
+C:\Users\Korisnik\source\repos\adresar\adresar\obj\Debug\adresar.csprojAssemblyReference.cache
